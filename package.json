@@ -1,6 +1,6 @@
 {
   "name": "mojs-util-units-regexp",
-  "description": "mojs mojs util that holds units regexp with all units supported in `mojs`, used to parse `unit` values",
+  "description": "mojs util that holds units regexp with all units supported in `mojs`, used to parse `unit` values",
   "version": "0.10.0",
   "license": "MIT",
   "private": false,
